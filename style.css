@@ -1,0 +1,11 @@
+h1 {
+	color:#4d8e13;
+}
+
+.new {
+	color:#0f443b;
+}
+
+input[type=text]:focus {
+    background-color: lightblue;
+}
